@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Michael J.
 
-I'm glad you are here. I plan to talk about ...
+I'm doing this for APCSP.
