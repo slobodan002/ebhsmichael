@@ -1,8 +1,8 @@
-title: Michael's Site
+title: Michael J.'s Site
 author: Michael J.
 email: mjucan@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
-  Everything superficial and unimportant about Michael J.
+  The prime location for superficial and unimportant details about Michael J.
 
 # social links
 twitter_username: jack # DO NOT include the @ character, or else the build will fail!
