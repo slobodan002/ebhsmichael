@@ -17,5 +17,5 @@ Regardless, here are some handles you can use to do this:
 
 ## The Brag Sheet
 1. Soon-to-be EBHS graduate. I have received honor roll every quarter throughout my career at EBHS, qualifying for Gold Honor roll on 5 of these occasions. 
-2. Placeholder
-3. Placeholder
+2. Enrolled at Rutgers New Brunswick School of Arts and Sciences. I was also admitted to the School of Engineering but did not enroll.
+3. Proud to have earned a 4 on the APCS A AP exam in May 2019.
