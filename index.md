@@ -3,7 +3,7 @@
 I'm doing this for APCSP, and have procrastinated until the very last moment to finish this.
 
 ## Who is this "Michael"?
-(image goes here)
+![Picture of Me](0524202152b.jpg)
 
 It's this clown. His name is Michael.
 
@@ -17,3 +17,5 @@ Regardless, here are some handles you can use to do this:
 
 ## The Brag Sheet
 1. Soon-to-be EBHS graduate. I have received honor roll every quarter throughout my career at EBHS, qualifying for Gold Honor roll on 5 of these occasions. 
+2. Placeholder
+3. Placeholder
